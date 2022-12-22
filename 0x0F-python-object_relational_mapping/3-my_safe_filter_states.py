@@ -1,4 +1,4 @@
-u#!/usr/bin/python3
+#!/usr/bin/python3
 """
 Filter states by user input safe from MySQL injections!
 It takes in an argument and displays all values in the states table
